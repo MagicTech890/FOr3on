@@ -1,0 +1,94 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "portfolio": "Portfolio",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Umbrella Programming",
+    "subtitle": "Comprehensive programming solutions for web development, management software, mobile applications, and cybersecurity",
+    "contactButton": "Contact Us",
+    "servicesButton": "Our Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a comprehensive range of programming services to meet the needs of our clients in various fields",
+    "webDev": {
+      "title": "Web Development",
+      "description": "Design and development of professional websites responsive to all devices using the latest technologies"
+    },
+    "management": {
+      "title": "Management Software",
+      "description": "Integrated management systems for business, HR, inventory, and sales management"
+    },
+    "mobile": {
+      "title": "Mobile Applications",
+      "description": "Development of smartphone applications for iOS and Android with modern designs and high performance"
+    },
+    "security": {
+      "title": "Cybersecurity",
+      "description": "Protection of data and systems from electronic threats and providing integrated security solutions"
+    },
+    "ai": {
+      "title": "Artificial Intelligence",
+      "description": "Development of custom AI solutions to improve your business, automate processes, and analyze data efficiently"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Umbrella Programming is a leading company in software development and integrated technical solutions",
+    "paragraph1": "Umbrella Programming is a leading company in software development and integrated technical solutions. We combine experience and creativity to deliver high-quality products that meet and exceed our clients' expectations.",
+    "paragraph2": "Our team includes elite developers, designers, and cybersecurity experts who work together to transform your ideas into tangible reality. We use the latest technologies and methodologies to ensure innovative and effective solutions.",
+    "paragraph3": "Our vision is to be the preferred technical partner for companies and institutions seeking excellence and success in the digital age.",
+    "stats": {
+      "experience": "Years of Experience",
+      "projects": "Completed Projects",
+      "clients": "Satisfied Clients",
+      "developers": "Professional Developers"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to answer your inquiries and help you achieve your technical goals",
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "send": "Send Message",
+      "success": "Your message has been sent successfully! We will contact you soon."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "info@umbrella-programming.com",
+      "phone": "+20 95 123 4567",
+      "address": "Luxor, Egypt"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "weekdays": "Sunday - Thursday: 9:00 AM - 5:00 PM",
+      "weekend": "Friday - Saturday: Closed"
+    }
+  },
+  "footer": {
+    "about": "A leading company in software development and integrated technical solutions.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contactInfo": "Contact Us",
+    "copyright": "All rights reserved."
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Browse some of the projects we have implemented for our clients in various fields",
+    "categories": {
+      "all": "All Projects",
+      "web": "Web Development",
+      "mobile": "Mobile Applications",
+      "desktop": "Desktop Software",
+      "security": "Cybersecurity"
+    }
+  }
+}
